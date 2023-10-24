@@ -37,4 +37,5 @@ config.json
 # Images
 logo.png
 
-#
+# gitignore
+.*gitignore
