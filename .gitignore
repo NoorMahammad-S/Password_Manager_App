@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+
+# Caches
+*.idea
+.vscode
+.cache
+
+# Compiled Python files
+*.pyc
+
+# Dependency folders
+venv/
+env/
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Compiled Python files
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Generated files
+data.json
+
+# Configuration files
+config.json
+
+# Images
+logo.png
+
